@@ -1,0 +1,6 @@
+package com.shristi.oopsdemo;
+
+public class ClassEmp {
+	String name;
+	int salary;
+}

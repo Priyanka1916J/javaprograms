@@ -1,0 +1,10 @@
+package com.shristi.methodoverloading;
+
+public class Student {
+ String name,city;
+ int studentId;
+ 
+ public Student(){
+	 System.out.println("in default");
+ }
+}

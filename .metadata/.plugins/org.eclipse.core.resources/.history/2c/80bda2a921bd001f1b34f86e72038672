@@ -1,0 +1,13 @@
+package com.basics.quest1;
+
+public class Book {
+String title;
+String author;
+String category;
+int Price;
+
+Book(String title,String author,String category, int Price){
+	
+}
+
+}
