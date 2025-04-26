@@ -3,13 +3,13 @@ package com.basics.quest1;
 public class BookMain {
 
 	public static void main(String[] args) {
-		Book b = new Book("Ramayana", "Valmiki", "Divine", 1200);
-		b.getDetails();
-		b.checkBookType();
+		Book book1= new Book("Ramayana", "Valmiki", "Divine", 1200);
+		book1.getDetails();
+		book1.checkBookType();
 		
-		Book b2 = new Book("Cindrella", "Charles Perrault", "Fantasy", 500);
-		b2.getDetails();
-		b2.checkBookType();
+		Book book2 = new Book("Cindrella", "Charles Perrault", "Fantasy", 500);
+		book2.getDetails();
+		book2.checkBookType();
 
 	}
 

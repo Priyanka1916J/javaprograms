@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.basics.quest2.BankMain"/>
+    <fullyQualifiedTypeName name="com.basics.quest2.Bank"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="javax.print.attribute.IntegerSyntax"/>
 </qualifiedTypeNameHistroy>
